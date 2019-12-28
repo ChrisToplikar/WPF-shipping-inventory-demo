@@ -16,3 +16,10 @@ Packages.cs- This file represents the Packages objects for the application.
 
 ## Testing
 Unit tests were performed on a variety of edge cases for packages.  
+
+## Demonstration
+Here is an example of the application running.
+![alt text][logo]
+
+[logo]: https://github.com/ChrisToplikar/WPF-shipping-inventory-demo/blob/master/demo.JPG?raw=true
+ "Application Demo"
